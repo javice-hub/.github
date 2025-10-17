@@ -1,8 +1,0 @@
-blank_issues_enabled: false
-contact_links:
-  - name: 커뮤니티 지원
-    url: https://github.com/orgs/community/discussions
-    about: 여기에서 질문하고 답변을 받으세요.
-  - name: 보안 취약점 신고
-    url: https://bounty.github.com/
-    about: 보안 취약점은 여기에 신고해주세요.
